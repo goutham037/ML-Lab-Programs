@@ -1,0 +1,10 @@
+a) Random Forest
+   Accuracy: 0.967
+   Feature importances: [0.123 0.027 0.439 0.411]
+
+b) AdaBoost (Boosting)
+   Accuracy: 0.967
+   Confusion Matrix:
+ [[11  0  0]
+ [ 0 12  1]
+ [ 0  0  6]]

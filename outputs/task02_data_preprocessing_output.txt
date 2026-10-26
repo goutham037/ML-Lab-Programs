@@ -1,0 +1,26 @@
+Original Data:
+     Age   Salary Country Buys
+0  25.0  50000.0   India   No
+1  30.0      NaN      US  Yes
+2   NaN  61000.0   India   No
+3  35.0  58000.0      UK  Yes
+4  40.0  52000.0      US  Yes
+5  28.0  49000.0      UK   No
+
+Missing values:
+ Age        1
+Salary     1
+Country    0
+Buys       0
+dtype: int64
+
+After Preprocessing:
+     Age  Salary  Country  Buys
+0 -1.36   -0.93        0     0
+1 -0.33    0.00        2     1
+2  0.00    1.63        0     0
+3  0.70    0.93        1     1
+4  1.73   -0.47        2     1
+5 -0.74   -1.17        1     0
+
+Training samples: 4  Testing samples: 2

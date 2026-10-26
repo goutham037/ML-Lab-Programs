@@ -1,0 +1,2 @@
+Library K-Means cluster sizes: [62 50 38]
+Scratch K-Means cluster sizes: [50 60 40]

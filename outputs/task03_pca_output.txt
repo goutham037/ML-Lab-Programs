@@ -1,0 +1,4 @@
+Original shape: (150, 4)
+Reduced shape : (150, 2)
+Explained variance ratio: [0.73  0.229]
+Total variance retained: 95.81 %

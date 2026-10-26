@@ -1,0 +1,31 @@
+Original Data:
+    Name  Age  Marks
+0   Ram   21     85
+1  Sita   22     90
+2  John   20     78
+3  Asha   23     88
+4  Ravi   21     72
+
+Data exported to CSV, Excel and JSON.
+
+Imported from CSV:
+    Name  Age  Marks
+0   Ram   21     85
+1  Sita   22     90
+2  John   20     78
+3  Asha   23     88
+4  Ravi   21     72
+
+Statistical summary:
+              Age     Marks
+count   5.000000   5.00000
+mean   21.400000  82.60000
+std     1.140175   7.46994
+min    20.000000  72.00000
+25%    21.000000  78.00000
+50%    21.000000  85.00000
+75%    22.000000  88.00000
+max    23.000000  90.00000
+
+Average Marks: 82.6
+Topper: Sita

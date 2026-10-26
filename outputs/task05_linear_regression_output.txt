@@ -1,0 +1,6 @@
+Simple Linear Regression
+  Slope: 977.74  Intercept: 151.67
+  R2: 0.251  RMSE: 63.17
+
+Multiple Linear Regression
+  R2: 0.438  RMSE: 54.7
